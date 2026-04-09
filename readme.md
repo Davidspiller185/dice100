@@ -1,0 +1,4 @@
+every player have the choice in every turn to roll or to pass the dice.
+if after the roll the score of the player is more to 100 the player is disqualified and the other player win.
+if the player have exactly score of 100 after the roll the same player win the game.
+if the tow player pass one to another the dice the game is finsh and the winner is the one he has a score closer to 100,if they have the same score so every player need to roll the dice and the one woh have a bigger score to win the game,if they have still the same score they continue to play until have a winner with the bigger score.
